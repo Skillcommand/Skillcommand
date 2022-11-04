@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Skillcommand
 - ⚡ I’ll launch an open takeaway 🍔🚗🚴🏻‍♂️ project later this year
 - 🪴 Trying to learn UE5
+- 💼 Protocol Servers (binary&ascii), Fullstack on Quarkus/Vue & Spring/Vue
 - 📫 Skillcmd#0001 via Discord
 
 <!---
